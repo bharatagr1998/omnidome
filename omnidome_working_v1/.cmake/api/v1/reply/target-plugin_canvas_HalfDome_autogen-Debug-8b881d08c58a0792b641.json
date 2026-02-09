@@ -1,0 +1,93 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"plugins/canvas/HalfDome/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "omni::@306ed2d68c6501e8728f"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "omniwidget::@085a73726b40c064b085"
+		}
+	],
+	"id" : "plugin_canvas_HalfDome_autogen::@c1a248c965a4b3040236",
+	"isGeneratorProvided" : true,
+	"name" : "plugin_canvas_HalfDome_autogen",
+	"orderDependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Qt5::moc::@c1a248c965a4b3040236"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt5::uic::@c1a248c965a4b3040236"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "omni::@306ed2d68c6501e8728f"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "omniwidget::@085a73726b40c064b085"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "plugins/canvas/HalfDome",
+		"source" : "plugins/canvas/HalfDome"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/bharat/Desktop/OmniDome/omnidome-master/build-omnidome-master-Desktop_Qt_5_14_2_MinGW_64_bit-Debug/plugins/canvas/HalfDome/CMakeFiles/plugin_canvas_HalfDome_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/bharat/Desktop/OmniDome/omnidome-master/build-omnidome-master-Desktop_Qt_5_14_2_MinGW_64_bit-Debug/plugins/canvas/HalfDome/CMakeFiles/plugin_canvas_HalfDome_autogen.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}
