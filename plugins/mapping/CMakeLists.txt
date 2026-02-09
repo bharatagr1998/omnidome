@@ -1,5 +1,0 @@
-add_subdirectory(Fisheye)
-add_subdirectory(TexCoords)
-add_subdirectory(Equirectangular)
-add_subdirectory(Cylindrical)
-add_subdirectory(CubeMap)
