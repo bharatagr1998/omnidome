@@ -1,0 +1,7 @@
+add_subdirectory(HelloWorld)
+add_subdirectory(TestImage)
+add_subdirectory(Syphon)
+add_subdirectory(Clock)
+add_subdirectory(Image)
+#add_subdirectory(Blackmagic)
+add_subdirectory(Spout)
